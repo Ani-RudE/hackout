@@ -21,7 +21,7 @@ PipLup is designed to simplify the trip planning process for travelers. It utili
 - Specify their destination.
 - Set the duration of their trip.
 - Define their budget.
-- Provide details about the activities they wish to - include in their itinerary.
+- Provide details about the activities they wish to include in their itinerary.
 
 PipLup's Travel Planner will then use these inputs to generate a comprehensive and personalized travel itinerary that includes activities, accommodations, and other relevant information. This innovative approach aims to provide a seamless and enjoyable travel planning experience.
 ## Tech Stack
@@ -30,6 +30,7 @@ PipLup's Travel Planner will then use these inputs to generate a comprehensive a
 - HTML
 - CSS
 - JavaScript
+- ReactJS
 - OpenAI GPT-3 API
 - Git
 ## Getting Started
