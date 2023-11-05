@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+# PipLup - AI Powered Personalized Travel Itinerary Generator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+PipLup is an innovative web application developed for hackout'23. PipLup is an AI-powered personalized travel itinerary generator, designed to enhance the travel experience for it's users. With PipLup, travelers can effortlessly plan their trips by leveraging the capabilities of OpenAI GPT-3 Chat completion.
+## Table of Contents
 
-## Available Scripts
+- Introduction
+- Project Overview
+- Tech Stack
+- Getting Started
+- Features
+- Screenshots
+- Future Aspects
+- Contributions
+## Introduction
 
-In the project directory, you can run:
+Headout is an on-demand mobile marketplace that empowers travelers to discover and book incredible tours, activities, events, and local experiences. As a company that prioritizes making travel memorable and hassle-free, PipLup aligns perfectly with Headout's vision by offering an intelligent solution to generate personalized travel itineraries.
+## Project Overview
 
-### `npm start`
+PipLup is designed to simplify the trip planning process for travelers. It utilizes OpenAI GPT-3 Chat completion to generate customized travel itineraries based on user preferences. With PipLup, users can:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Specify their destination.
+- Set the duration of their trip.
+- Define their budget.
+- Provide details about the activities they wish to include in their itinerary.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+PipLup's Travel Planner will then use these inputs to generate a comprehensive and personalized travel itinerary that includes activities, accommodations, and other relevant information. This innovative approach aims to provide a seamless and enjoyable travel planning experience.
+## Tech Stack
 
-### `npm test`
+- Figma
+- HTML
+- CSS
+- JavaScript
+- ReactJS
+- OpenAI GPT-3 API
+- Git
+## Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To get started with PipLup, follow these steps:
 
-### `npm run build`
+- Clone the PipLup repository to your local machine.
+- Set up the necessary dependencies and environment variables.
+- Run the web application.
+## Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+PipLup offers several key features:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Personalized Travel Itineraries:** PipLup generates custom travel itineraries that cater to the user's preferences, making each trip unique and tailored to their needs.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **AI-Powered Recommendations:** By using OpenAI GPT-3 Chat completion, PipLup ensures that its recommendations are contextually relevant and continuously improving.
 
-### `npm run eject`
+- **Destination Flexibility:** Users can specify their desired travel destination, allowing them to explore new places or revisit their favorite ones.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Budget Management:** PipLup considers the user's budget and recommends accommodations, activities, and dining options that fit within their financial constraints.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **Activity Selection:** Users can provide information about the activities they want to enjoy during their trip, and PipLup incorporates these preferences into the itinerary.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Screenshots
+## Future Aspects
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+There are several exciting possibilities for future development:
 
-## Learn More
+- **Third-Party Integration:** Integrate with external services for real-time information on accommodations, flights, and more, ensuring up-to-date and comprehensive travel itineraries.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- **User Profiles & History:** Implement user profiles, allowing users to save and access their travel itineraries. This feature promotes user engagement and convenience.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- **Mobile App Development:** Create a mobile app version of PipLup, catering to users who prefer mobile devices for trip planning, potentially expanding our user base and providing on-the-go convenience.
 
-### Code Splitting
+- **Seamless integration with Headout:** PipLup's integration with Headout brings enhanced user experience, personalized recommendations, and data insights. By developing APIs, ensuring seamless authentication, Headout can offer a streamlined, cross-promotional platform that simplifies travel planning by generating personalized itineraries using the extensive inventory of Headout experiences.
+## Contributions
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Krish Srivastava
+- Aniruddha Dewangan 
